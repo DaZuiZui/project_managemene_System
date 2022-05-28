@@ -1,0 +1,9 @@
+https://www.navicat.com/en/what-is-navicat-for-mongodb
+ https://code.visualstudio.com/
+https://nodejs.org/en/
+https://www.jetbrains.com/idea/	jdk 选择1.8
+https://typora.io/
+
+npm run dev
+
+java -jar index-0.0.1-SNAPSHOT.jar 
